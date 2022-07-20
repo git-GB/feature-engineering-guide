@@ -1,5 +1,6 @@
 # feature-engineering-guide
-Follow this guide to learn feature engineering with python.
+Follow this guide to learn feature engineering with python for machine learning. \
+Here I will be covering how to deal with numerical and categorical data.
 
 **contents include:** 
 
