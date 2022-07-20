@@ -3,10 +3,9 @@ Follow this guide to learn feature engineering with python.
 
 **contents include:** 
 
-2 Notebooks 📙 
-1. feature-engineering-guide-part1.ipynb
-2. feature-engineering-problem.ipynb
+Notebooks 📕
+- feature-engineering-guide-part1.ipynb[https://github.com/git-GB/feature-engineering-guide/blob/main/feature-engineering-guide-part1.ipynb]
+- feature-engineering-problem.ipynb[https://github.com/git-GB/feature-engineering-guide/blob/main/feature-engineering-problem.ipynb]
 
-Datasets
-data.csv
-
+Datasets 📁
+- data.csv[https://github.com/git-GB/feature-engineering-guide/blob/main/datasets/data.csv]
