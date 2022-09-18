@@ -5,8 +5,7 @@ Here I will be covering how to deal with numerical and categorical data.
 ### **contents:** 
 Notebooks 📕
 - [feature-engineering-guide-part1.ipynb](https://github.com/git-GB/feature-engineering-guide/blob/main/feature-engineering-guide-part1.ipynb)
-- [feature-engineering-problem.ipynb](https://github.com/git-GB/feature-engineering-guide/blob/main/feature-engineering-problem.ipynb)
-
+- [feature-engineering-problem.ipynb](https://github.com/git-GB/feature-engineering-guide/blob/main/case-sample-solution.ipynb)
 Datasets 📁
 - [data.csv](https://github.com/git-GB/feature-engineering-guide/blob/main/datasets/data.csv)
 
