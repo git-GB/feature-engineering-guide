@@ -34,6 +34,5 @@ form a table. Following are the features as per the received response : -
 17) income	
 18) education_level
 
-Your task is to try and generate/Engineer more information and characteristics to help facilitate Machine Learning.
-
+Your task is to come up with more information, characteristics and features.
 
